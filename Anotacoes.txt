@@ -1,0 +1,30 @@
+LINHA DE RACIOCINIO DO GITHUB
+
+
+**********************************************************************************************************************************************************
+     WORK REPOSITORY(LOCAL)
+            ⬇️
+         git add 
+            ⬇️
+         GIT INDEX
+            ⬇️
+        git commit
+            ⬇️
+        REPOSITORY
+            ⬇️
+        git push 
+            ⬇️
+          REMOTE   
+**********************************************************************************************************************************************************
+
+COMANDOS BASICOS 
+**********************************************************************************************************************************************************
+1- GIT INIT -> Cria um repositorio .git e inicializa um repositorio.
+
+2- GIT STATUS -> Apresenta como esta o estado do seu repositorio.
+
+3- GIT ADD -> passa o arquivo da maquina local ao index. 
+
+4- GIT COMMIT -> passa o arquivo do index ao repositorio, com um texto que seria seu titulo. Que indica o que foi alterado.
+
+**********************************************************************************************************************************************************
