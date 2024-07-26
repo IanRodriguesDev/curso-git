@@ -11,7 +11,7 @@ LINHA DE RACIOCINIO DO GITHUB
         git commit
             ⬇️
         REPOSITORY
-            ⬇️
+            ⬇️ 
         git push 
             ⬇️
           REMOTE   
@@ -26,5 +26,15 @@ COMANDOS BASICOS
 3- GIT ADD -> passa o arquivo da maquina local ao index. 
 
 4- GIT COMMIT -> passa o arquivo do index ao repositorio, com um texto que seria seu titulo. Que indica o que foi alterado.
+
+5- GIT LOG -> apresenta a lista de commit 
+
+6- GIT LOG --PRETTY=ONELINE -> lista os commit de forma mais organizada   
+
+7- GIT BRANCH -> apresenta as branchs 
+
+8- GIT ADD . -> passa todos os arquivos da maquina local ao index. 
+
+9- GIT DIFF -> mostra detalhadamentes as mudancas e nova cracao do index b. 
 
 **********************************************************************************************************************************************************
