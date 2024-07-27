@@ -46,4 +46,6 @@ COMANDOS BASICOS
 13- GIT REMOTE ADD ORIGIN -> faz o link entre o repositorio local com o repositorio remoto.
 
 14- GIT PUSH -U ORIGIN -> finaliza a operacao.
+
+15- GIT checkout -B -> Cria e navega entre branchs novas ou existentes. 
 **********************************************************************************************************************************************************
