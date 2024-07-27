@@ -19,22 +19,31 @@ LINHA DE RACIOCINIO DO GITHUB
 
 COMANDOS BASICOS 
 **********************************************************************************************************************************************************
-1- GIT INIT -> Cria um repositorio .git e inicializa um repositorio.
+1-  GIT INIT -> Cria um repositorio .git e inicializa um repositorio.
 
-2- GIT STATUS -> Apresenta como esta o estado do seu repositorio.
+2-  GIT STATUS -> Apresenta como esta o estado do seu repositorio.
 
-3- GIT ADD -> passa o arquivo da maquina local ao index. 
+3-  GIT ADD -> passa o arquivo da maquina local ao index. 
 
-4- GIT COMMIT -> passa o arquivo do index ao repositorio, com um texto que seria seu titulo. Que indica o que foi alterado.
+4-  GIT COMMIT -> passa o arquivo do index ao repositorio, com um texto que seria seu titulo. Que indica o que foi alterado.
 
-5- GIT LOG -> apresenta a lista de commit 
+5-  GIT LOG -> apresenta a lista de commit. 
 
-6- GIT LOG --PRETTY=ONELINE -> lista os commit de forma mais organizada   
+6-  GIT LOG --PRETTY=ONELINE -> lista os commit de forma mais organizada.   
 
-7- GIT BRANCH -> apresenta as branchs 
+7-  GIT BRANCH -> apresenta as branchs.
 
-8- GIT ADD . -> passa todos os arquivos da maquina local ao index. 
+8-  GIT ADD . -> passa todos os arquivos da maquina local ao index. 
 
-9- GIT DIFF -> mostra detalhadamentes as mudancas e nova cracao do index b. 
+9-  GIT DIFF -> mostra detalhadamentes as mudancas e nova cracao do index b. 
 
+10- GIT RESTORE --STAGED -> retira uma modificacao expecifica do index. 
+
+11- GIT COMMIT --AMEND -> permite fazer alteracao do ultimo commit.
+
+12- GIT BRANCH -M -> altera o nome de uma branch.
+
+13- GIT REMOTE ADD ORIGIN -> faz o link entre o repositorio local com o repositorio remoto.
+
+14- GIT PUSH -U ORIGIN -> finaliza a operacao.
 **********************************************************************************************************************************************************
