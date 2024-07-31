@@ -49,3 +49,13 @@ COMANDOS BASICOS
 
 15- GIT checkout -B -> Cria e navega entre branchs novas ou existentes. 
 **********************************************************************************************************************************************************
+
+RESUMO SOBRE BRANCHS
+**********************************************************************************************************************************************************
+Básicamente branch é uma ramificação do git, como se o git fosse uma linha de trem que leva os commit ao github. Normalmente, quando se cria um arquivo e 
+inicializa o git, já é criado o que chamamos de "branch long-running" que são as famosas branchs MAIN. Bom básicamente as branchs de long-running, são a 
+linha de trem principal. Onde passam os commits principais que normalmente já passaram por textes e aprovações para ir para o projeto. Mas onde se texta e 
+se concerta bugs. Já que a branch MAIN já é a principal? Bem, você pode criar uma ramificação criando uma nova branch. Já essas são chamadas de "branchs 
+short-lived", que são usadas para textar e concertar bugs para assim que estiver pronto finalmente dar um pull para a branch principal "MAIN" e subir para
+o GITHUB. 
+**********************************************************************************************************************************************************
